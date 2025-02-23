@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Blog - Home</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-900">
+
+    <!-- Navbar -->
+    <header class="bg-blue-600 text-white py-4">
+        <div class="container mx-auto text-center text-2xl font-bold">
+            Tech Blog 🚀
+        </div>
+    </header>
+
+    <!-- Contenuto -->
+    <main class="container mx-auto p-4">
+        <h1 class="text-3xl font-bold text-center my-6">Ultimi Articoli</h1>
+
+        <!-- Lista degli articoli -->
+        <div id="articles" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- Gli articoli verranno caricati qui -->
+        </div>
+    </main>
+
+    <script>
+        async function fetchArticles() {
+            try {
+                const response = await fetch("http://localhost:3000/api/posts");
+                const articles = await response.json();
+                
+                const container = document.getElementById("articles");
+                container.innerHTML = "";
+
+                articles.forEach(article => {
+                    const articleCard = `
+                        <div class="bg-white p-4 rounded-lg shadow-md">
+                            <h2 class="text-xl font-bold text-blue-600">${article.titolo}</h2>
+                            <p class="text-gray-700 mt-2">${article.contenuto.substring(0, 100)}...</p>
+                            <p class="text-sm text-gray-500 mt-2">Autore: ${article.autore}</p>
+                        </div>
+                    `;
+                    container.innerHTML += articleCard;
+                });
+            } catch (error) {
+                console.error("Errore nel caricamento degli articoli:", error);
+            }
+        }
+
+        // Carica gli articoli quando la pagina è pronta
+        fetchArticles();
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,242 @@
+[
+    {
+        "titolo": "L'intelligenza artificiale sta rivoluzionando il mondo",
+        "contenuto": "Dall'automazione dei processi all'assistenza virtuale, l'AI sta cambiando il modo in cui viviamo e lavoriamo.",
+        "autore": "TechNews",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "I migliori linguaggi di programmazione nel 2025",
+        "contenuto": "Python, JavaScript e Rust dominano la scena grazie alla loro versatilità e prestazioni.",
+        "autore": "DevTrends",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "Blockchain oltre le criptovalute",
+        "contenuto": "La blockchain sta trovando applicazione in settori come la sanità, la logistica e il voto elettronico.",
+        "autore": "CryptoToday",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "Quantum Computing: il futuro dell'informatica",
+        "contenuto": "I computer quantistici promettono di risolvere problemi che oggi sono impossibili da calcolare.",
+        "autore": "SciTech",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "Il 5G sta trasformando Internet",
+        "contenuto": "Connessioni ultra-veloci e bassa latenza stanno aprendo nuove possibilità per IoT e realtà aumentata.",
+        "autore": "MobileTech",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "Cybersecurity: come proteggere i tuoi dati",
+        "contenuto": "L'importanza di password sicure, autenticazione a due fattori e crittografia per la sicurezza online.",
+        "autore": "CyberSec",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "Sviluppo Web: le nuove tendenze",
+        "contenuto": "Framework come Next.js e Svelte stanno cambiando il panorama dello sviluppo web moderno.",
+        "autore": "WebDev",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "L'automazione nel mondo del lavoro",
+        "contenuto": "Robot e software intelligenti stanno sostituendo molte attività manuali, creando nuove opportunità e sfide.",
+        "autore": "FutureJobs",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "Realtà Virtuale e Aumentata: il futuro dell'intrattenimento",
+        "contenuto": "Dai videogiochi alla formazione professionale, VR e AR stanno diventando strumenti potenti.",
+        "autore": "VRWorld",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "Il cloud computing è il nuovo standard",
+        "contenuto": "Servizi come AWS, Azure e Google Cloud stanno trasformando il modo in cui le aziende gestiscono i dati.",
+        "autore": "CloudTech",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "L'Internet of Things sta connettendo il mondo",
+        "contenuto": "Milioni di dispositivi IoT stanno cambiando il nostro modo di interagire con la tecnologia.",
+        "autore": "IoTNews",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "Le startup tecnologiche più promettenti del 2025",
+        "contenuto": "Dalle AI company alle nuove soluzioni fintech, ecco le startup da tenere d'occhio.",
+        "autore": "StartupWorld",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "Supercomputer: la corsa alla potenza di calcolo",
+        "contenuto": "Le grandi aziende tecnologiche stanno investendo miliardi nei supercomputer per l’AI.",
+        "autore": "CompTech",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "Le nuove GPU per il gaming e l'AI",
+        "contenuto": "Le ultime schede video offrono prestazioni incredibili per il rendering e il deep learning.",
+        "autore": "GamingHardware",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "Come il machine learning sta migliorando la sanità",
+        "contenuto": "L’AI aiuta nella diagnosi precoce e nell'ottimizzazione dei trattamenti medici.",
+        "autore": "MedTech",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "Il futuro delle auto elettriche e autonome",
+        "contenuto": "Tesla, Waymo e altre aziende stanno guidando l'innovazione nel settore dei trasporti.",
+        "autore": "AutoTech",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "I droni stanno trasformando la logistica",
+        "contenuto": "Amazon e altre aziende stanno sperimentando la consegna con droni autonomi.",
+        "autore": "DroneTech",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "L'evoluzione degli smartphone nel 2025",
+        "contenuto": "Display pieghevoli, AI avanzata e connettività 6G sono le novità del settore mobile.",
+        "autore": "MobileWorld",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "Le migliori piattaforme di sviluppo low-code/no-code",
+        "contenuto": "Sempre più aziende stanno adottando strumenti low-code per accelerare lo sviluppo software.",
+        "autore": "DevTools",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "La privacy online e il futuro della sicurezza dei dati",
+        "contenuto": "Con l'aumento delle violazioni dei dati, la protezione della privacy diventa cruciale.",
+        "autore": "PrivacySec",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "L'intelligenza artificiale generativa e il suo impatto",
+        "contenuto": "Strumenti come ChatGPT e DALL·E stanno trasformando la creatività e l'automazione dei contenuti digitali.",
+        "autore": "AIWorld",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "Come il Metaverso sta evolvendo",
+        "contenuto": "Piattaforme come Meta Horizon Worlds stanno cercando di portare l'interazione sociale a un nuovo livello.",
+        "autore": "MetaTech",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "Le migliori alternative a Twitter nel 2025",
+        "contenuto": "Mastodon, Bluesky e Threads stanno emergendo come valide alternative a Twitter per la comunicazione online.",
+        "autore": "SocialMediaTrends",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "La robotica sta entrando nelle case",
+        "contenuto": "Dai robot aspirapolvere agli assistenti domestici, l'automazione sta diventando una realtà quotidiana.",
+        "autore": "RoboTech",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "I videogiochi più attesi del 2025",
+        "contenuto": "Nuove uscite come GTA 6 e The Elder Scrolls VI stanno tenendo i fan con il fiato sospeso.",
+        "autore": "GamingWorld",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "L'evoluzione degli algoritmi di ricerca su Google",
+        "contenuto": "Con l'introduzione dell'AI, Google sta migliorando la comprensione delle query e i risultati di ricerca.",
+        "autore": "SEOInsider",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "Smartwatch e il futuro della salute digitale",
+        "contenuto": "Dispositivi come Apple Watch e Fitbit stanno monitorando sempre più parametri vitali.",
+        "autore": "HealthTech",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "Il futuro delle stampanti 3D",
+        "contenuto": "Dalla produzione industriale alla bio-stampa di organi, la stampa 3D sta rivoluzionando diversi settori.",
+        "autore": "3DPrintingToday",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "La guerra tra processori: Intel vs AMD vs Apple M-Series",
+        "contenuto": "La competizione tra i chip si fa sempre più intensa con le nuove generazioni di CPU.",
+        "autore": "TechBench",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "Le auto volanti sono davvero vicine?",
+        "contenuto": "Le aziende stanno investendo in veicoli volanti elettrici, ma la regolamentazione è ancora una sfida.",
+        "autore": "FutureMobility",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "La fine delle password: autenticazione biometrica e passkeys",
+        "contenuto": "Apple, Google e Microsoft stanno lavorando a metodi di autenticazione più sicuri e user-friendly.",
+        "autore": "CyberSecurityNews",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "Reti neurali e deep learning: le nuove frontiere",
+        "contenuto": "L'apprendimento profondo sta migliorando il riconoscimento vocale, la traduzione automatica e molto altro.",
+        "autore": "AITrends",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "Il futuro delle batterie: più autonomia, meno ricariche",
+        "contenuto": "Nuove tecnologie come le batterie a stato solido promettono maggiore durata e sicurezza.",
+        "autore": "EnergyTech",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "Il software open-source continua a dominare",
+        "contenuto": "Progetti come Linux, TensorFlow e Kubernetes stanno ridefinendo il mondo IT.",
+        "autore": "OpenSourceNow",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "L'evoluzione dei display: microLED e OLED avanzati",
+        "contenuto": "I nuovi schermi offrono colori più brillanti, minori consumi e durata maggiore.",
+        "autore": "DisplayTech",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "Droni da consegna: il futuro dell'e-commerce",
+        "contenuto": "Amazon e altre aziende stanno testando droni per la consegna rapida di pacchi.",
+        "autore": "EcomTrends",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "Le migliori piattaforme per lo sviluppo di AI",
+        "contenuto": "Google TensorFlow, OpenAI e Hugging Face sono leader nello sviluppo di intelligenza artificiale.",
+        "autore": "AIPlatforms",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "I computer del futuro: neuromorfici e quantistici",
+        "contenuto": "Nuove architetture di calcolo promettono efficienza e velocità mai viste prima.",
+        "autore": "FutureComputing",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "I nuovi standard per la realtà aumentata",
+        "contenuto": "Apple Vision Pro e altri dispositivi stanno portando l'AR a livelli mai visti prima.",
+        "autore": "ARWorld",
+        "data": "2025-02-21T00:00:00Z"
+    },
+    {
+        "titolo": "Come i chip cerebrali potrebbero cambiare la tecnologia",
+        "contenuto": "Neuralink e altre aziende stanno esplorando l'interfaccia cervello-computer.",
+        "autore": "NeuroTech",
+        "data": "2025-02-21T00:00:00Z"
+    }    
+]
