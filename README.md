@@ -9,6 +9,10 @@ Questa repository contiene una serie di esercizi pratici per imparare a sviluppa
 - **Mongoose/** → Utilizzo di Mongoose per la gestione dei dati in MongoDB.
 - **Node.js/** → Esercizio introduttivo su Node.js per comprendere il funzionamento del runtime.
 
+<p align="center">
+    <img src="img/cover.jpg" alt="UserHub Logo" width="100%" />
+</p>
+
 ## 🚀 Come usare questo progetto
 
 ### 1️⃣ Clonare la repository
